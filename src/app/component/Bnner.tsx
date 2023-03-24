@@ -26,7 +26,7 @@ export default function Bnner() {
 
           <p className="text-lg md:text-xl  py-3 md:py-5">
             The Future of the Web is Web 3.0, Metaverse, and Edge Computing.
-            Panaverse DAO is a movement to spread these technolgies globally. It
+            Panaverse DAO is a movement to spread these technologies globally. It
             is community of Web 3 and Metaverse developers, designers, trainers,
             startup founders and service providers.
           </p>
